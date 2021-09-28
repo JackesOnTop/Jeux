@@ -16,7 +16,7 @@ public class Main {
 			}
 			System.out.println(nombre);
 			//pour commiter
-			System.out.println("aurevoir");
+			
 			}
 			
 		
